@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //测试git更新项目
+    UIView *view = [[UIView alloc] init];
+    [self.view addSubview:view];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
